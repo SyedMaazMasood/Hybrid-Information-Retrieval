@@ -46,13 +46,15 @@ pip install rank\_bm25 sentence-transformers faiss-cpu groq pandas numpy nltk
 
 code/
 notebook.ipynb       - Main notebook (all steps)
-
 requirements.txt     - Required libraries
-README.md            - This file
+
+../README.md            - This file
+
 data/
 corpus.csv           - 10,000 Amazon Grocery reviews
 queries.csv          - 20 evaluation queries
 qrels.csv            - Relevance judgments (graded 0/1/2)
+
 outputs/
 run\_bm25.csv         - BM25 top-10 results for all 20 queries
 run\_dense.csv        - Dense retrieval top-10 results
@@ -60,6 +62,7 @@ run\_hybrid.csv       - Hybrid (RRF) top-10 results
 metrics\_summary.csv  - P@10, MAP, nDCG@10 per query per method
 rag\_outputs.csv      - RAG answers for all 20 queries
 pr\_curve.png         - Precision-Recall curve (q01)
+
 walkthrough/
 walkthrough.pdf      - Annotated screenshots
 
