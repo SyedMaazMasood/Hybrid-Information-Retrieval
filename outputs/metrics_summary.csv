@@ -1,0 +1,61 @@
+method,query_id,query_text,P@10,MAP,nDCG@10
+BM25,q01,gluten free and nut free baking mixes,0.4,0.331,0.4803
+BM25,q02,healthy low sodium snacks for weight loss,0.4,0.2374,0.4445
+BM25,q03,best green tea for energy and focus,0.2,0.1167,0.3098
+BM25,q04,organic coconut oil for skin and hair care,0.7,0.5578,0.7242
+BM25,q05,stale popcorn and poor quality food complaints,0.0,0.0,0.0
+BM25,q06,sugar free peanut butter protein bars,0.2,0.3333,0.3391
+BM25,q07,bulk rice for long term food storage,0.2,0.0607,0.1617
+BM25,q08,variety candy bags for halloween trick or treating,0.4,0.4021,0.5538
+BM25,q09,easy to make cold brew iced tea for summer,0.6,0.4573,0.5871
+BM25,q10,soy sauce alternatives like liquid aminos,0.3,0.6667,0.6714
+BM25,q11,keto friendly electrolyte powder for dehydration,0.0,0.0,0.0
+BM25,q12,spicy korean ramen with high heat level,0.2,0.0733,0.2342
+BM25,q13,natural sweeteners that don't have an aftertaste,0.2,0.1083,0.244
+BM25,q14,caffeinated chocolate covered espresso beans,0.0,0.0,0.0
+BM25,q15,dairy free milk powder for baking,0.2,0.2407,0.4955
+BM25,q16,high protein snacks for toddler lunch box,0.2,0.119,0.2167
+BM25,q17,artisanal olive oil for dipping bread,0.6,0.8095,0.8255
+BM25,q18,fast acting energy gels for marathon running,0.1,0.0357,0.1184
+BM25,q19,organic raw honey with honeycomb included,0.6,0.5506,0.7573
+BM25,q20,sustainable and fair trade medium roast coffee,0.4,0.3247,0.652
+Dense,q01,gluten free and nut free baking mixes,0.3,0.1551,0.3251
+Dense,q02,healthy low sodium snacks for weight loss,0.2,0.1667,0.2146
+Dense,q03,best green tea for energy and focus,0.2,0.4,0.6422
+Dense,q04,organic coconut oil for skin and hair care,0.6,0.5667,0.7152
+Dense,q05,stale popcorn and poor quality food complaints,0.1,1.0,1.0
+Dense,q06,sugar free peanut butter protein bars,0.1,0.0833,0.1376
+Dense,q07,bulk rice for long term food storage,0.3,0.1577,0.3542
+Dense,q08,variety candy bags for halloween trick or treating,0.2,0.1562,0.2148
+Dense,q09,easy to make cold brew iced tea for summer,0.3,0.2135,0.4404
+Dense,q10,soy sauce alternatives like liquid aminos,0.3,0.4429,0.5551
+Dense,q11,keto friendly electrolyte powder for dehydration,0.3,0.2103,0.3068
+Dense,q12,spicy korean ramen with high heat level,0.5,0.8762,0.9092
+Dense,q13,natural sweeteners that don't have an aftertaste,0.3,0.2643,0.3963
+Dense,q14,caffeinated chocolate covered espresso beans,0.0,0.0,0.0
+Dense,q15,dairy free milk powder for baking,0.1,0.3333,0.5317
+Dense,q16,high protein snacks for toddler lunch box,0.4,0.3667,0.6921
+Dense,q17,artisanal olive oil for dipping bread,0.4,0.4041,0.6403
+Dense,q18,fast acting energy gels for marathon running,0.2,0.1786,0.3616
+Dense,q19,organic raw honey with honeycomb included,0.6,0.5108,0.6584
+Dense,q20,sustainable and fair trade medium roast coffee,0.3,0.3452,0.3809
+Hybrid,q01,gluten free and nut free baking mixes,0.7,0.7546,0.7403
+Hybrid,q02,healthy low sodium snacks for weight loss,0.7,0.9087,0.8723
+Hybrid,q03,best green tea for energy and focus,0.5,0.6343,0.8276
+Hybrid,q04,organic coconut oil for skin and hair care,1.0,1.0,1.0
+Hybrid,q05,stale popcorn and poor quality food complaints,0.1,0.1,0.2891
+Hybrid,q06,sugar free peanut butter protein bars,0.3,0.5778,0.6352
+Hybrid,q07,bulk rice for long term food storage,0.8,0.7603,0.7921
+Hybrid,q08,variety candy bags for halloween trick or treating,0.8,0.9472,0.8944
+Hybrid,q09,easy to make cold brew iced tea for summer,0.8,0.8073,0.9195
+Hybrid,q10,soy sauce alternatives like liquid aminos,0.3,0.6429,0.6699
+Hybrid,q11,keto friendly electrolyte powder for dehydration,0.6,0.6569,0.6829
+Hybrid,q12,spicy korean ramen with high heat level,0.5,0.5454,0.6955
+Hybrid,q13,natural sweeteners that don't have an aftertaste,0.6,0.7861,0.8663
+Hybrid,q14,caffeinated chocolate covered espresso beans,0.0,0.0,0.0
+Hybrid,q15,dairy free milk powder for baking,0.3,0.5397,0.7889
+Hybrid,q16,high protein snacks for toddler lunch box,0.7,0.6441,0.7216
+Hybrid,q17,artisanal olive oil for dipping bread,0.7,0.8806,0.9361
+Hybrid,q18,fast acting energy gels for marathon running,0.7,0.6211,0.7499
+Hybrid,q19,organic raw honey with honeycomb included,0.9,0.906,0.9588
+Hybrid,q20,sustainable and fair trade medium roast coffee,0.7,0.8598,0.8964

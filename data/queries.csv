@@ -1,0 +1,21 @@
+query_id,query_text,query_type
+q01,gluten free and nut free baking mixes,Lexical/Constraint
+q02,healthy low sodium snacks for weight loss,Semantic/Intent
+q03,best green tea for energy and focus,Semantic/Intent
+q04,organic coconut oil for skin and hair care,Multi-purpose
+q05,stale popcorn and poor quality food complaints,Negative Sentiment
+q06,sugar free peanut butter protein bars,Lexical/Constraint
+q07,bulk rice for long term food storage,Usage Context
+q08,variety candy bags for halloween trick or treating,Event-based
+q09,easy to make cold brew iced tea for summer,Seasonal/Process
+q10,soy sauce alternatives like liquid aminos,Comparative
+q11,keto friendly electrolyte powder for dehydration,Health/Dietary
+q12,spicy korean ramen with high heat level,Flavor Profile
+q13,natural sweeteners that don't have an aftertaste,Subjective Quality
+q14,caffeinated chocolate covered espresso beans,Specific Ingredient
+q15,dairy free milk powder for baking,Substitution
+q16,high protein snacks for toddler lunch box,Audience-specific
+q17,artisanal olive oil for dipping bread,Luxury/Quality
+q18,fast acting energy gels for marathon running,Activity-specific
+q19,organic raw honey with honeycomb included,Product Variant
+q20,sustainable and fair trade medium roast coffee,Ethical/Social

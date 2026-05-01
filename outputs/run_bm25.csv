@@ -1,0 +1,201 @@
+query_id,doc_id,rank,score,product_title,review_headline,star_rating
+q01,RW4ZPJZWV7FBA,1,23.8031,Pamela's Products Artisan Flour Blend,I've tried many gluten-free baking products and flour blends over ...,5
+q01,R17CJRSERY104O,2,21.5028,Namaste Foods Gluten Free Organic Perfect Flour Blend,Five Stars,5
+q01,R382BWXVKVF6B7,3,21.2402,Tropical Fields Crispy Coconut Rolls with Sesame Seeds 9.3 oz,Gluten free?,1
+q01,R1MCNQ4N4OB7LE,4,20.2073,"Glutino Gluten Free Toaster Pastry, 5 Count",gluten free & flavor free....,2
+q01,R3JTYP6FV9AWCR,5,20.0153,Nature's Path Organic Sunrise Cereal - Crunchy Vanilla 10.6 oz Pkg,Enjoy this gluten free cereal.,5
+q01,R2CD1TBPTGUBZN,6,19.6854,"DeLallo Gluten Free Corn and Rice, Fusilli, 12 Ounce",BEST Gluten Free Pasta I've ever tried!,5
+q01,R19B4TFSZFRA2Y,7,19.5658,Organic Gluten Free Oats,I love that these oats are both organic and gluten free,5
+q01,R3BSL4FCO7U4YK,8,19.1131,Spike Seasoning - Salt Free and Gluten Free - 1.9 oz,Salt free and Gluten free Seasoning,5
+q01,RQSIH4L30T7QN,9,18.5387,Nature Valley Muesli Cereal Blueberry 11 oz Box,I am gluten free but love oats. These are sadly not gluten-free certified but ...,5
+q01,R3CRCJLQ36BB9D,10,18.52,Pamela's Products Amazing Wheat Free & Gluten-free Bread Mix,Gluten Free bread can satisfy the bread lover.,5
+q02,R2RC7A7NSN49Q9,1,16.2042,Pop-Tarts,Four Stars,4
+q02,R1BCRYG5YCZ9YN,2,16.0149,"V8 100% Vegetable Juice, Original Low Sodium",Low sodium V8 juice is an excellent source of potassium,5
+q02,R3R2R15K6WSZBI,3,15.2056,"Orchard Bars Strwberry, Raspberry & Walnut Bars, 1.4-Ounce Bar, 12-Count",Tasty and Healthy,5
+q02,R2IHRHCKP2GF9H,4,13.7525,Sahale Snacks,amazing grab and go snacks.,5
+q02,R1OGREA5U7XIX2,5,13.7525,Caveman Foods Primal Performance Caveman Bar Variety (Pack of 10),My kids love them for snacks,5
+q02,R2QOOJ8TS35NOX,6,13.103,Bragg - Organic Apple Cider Vinegar with Mother,Worth every cent!,5
+q02,R6MZR6HAYAI0I,7,12.931,Spike Seasoning - Salt Free and Gluten Free - 1.9 oz,Yummy and healthy,5
+q02,R16FN2TIOM92BL,8,12.7227,Iaso Tea (1 Month Supply),Unfortunately this product did not work for me as far ...,3
+q02,R1Z097JMB2TYIY,9,12.6282,"NutraSalt Low Sodium Sea Salt, 5.5-Ounce Containers - 1 Piece",Natrasalt,3
+q02,R1OW95W101N2K0,10,12.4022,"Non-GMO and Natural Healthy Snacks Care Package - College, Military, Get Well, Thank You Gift, School Lunch, Office Variety Pack",Amazing healthy great tasting snacks,5
+q03,R2UFL5HCGL95A1,1,14.8492,Organic Matcha Green Tea Powder - 100% Pure Matcha (No Sugar Added - Unsweetened Pure Green Tea - No Coloring Added Like Others) 4oz,Taste is a 10/10 as far as green tea goes ...,5
+q03,R1H63WKSDV380O,2,14.8325,LeCharm Ready Brew Fruit & Flowering Tea Extract Crystals Sachets - Fine Tea in 3 Seconds,Not the best taste. Buy crystal light green tea instead,1
+q03,R61VL1WQT8UTV,3,12.9397,"Celestial Seasonings Rooibos Tea, 20 Count (Pack of 6)",Try this tea!,5
+q03,R30L1WNMK87Z3P,4,12.9341,"V8 V-Fusion +Energy Drinks, 8 Fl Oz",Love the taste but no energy felt,3
+q03,R95793VP294V1,5,12.8362,Monster Rehab Variety - 24/15.5oz Cans,No Green Tea!!,3
+q03,R1QYH4QCJUTC7S,6,12.8362,"Japanese Kit Kat Matcha Green Tea Flavor | Sweetness for Adults, mini 12 pcs (Japan Import)",Yum for green tea lovers,5
+q03,R1AX3L8E7UMCVG,7,12.6864,Dandelion Root Tea - Raw Organic Vitamin Rich Digestive,green tea instead,2
+q03,R1F3S3LH8R7ODJ,8,12.3775,"Organic Pinhead Gunpowder Green Tea, Loose Leaf Bag, Positively Tea (1 lb.)",Five Stars,5
+q03,R3V15CB2KMJSXD,9,12.3058,Tealyra - Luxury Jasmine Silver Needle White Losse Tea - Organically Grown in Fujian China - Loose Leaf Tea - Caffeine Level Low,Five Stars,5
+q03,R1QYKYSZ8HLBXD,10,12.3044,"V8 V-Fusion +Energy Drinks, 8 Fl Oz",Gives me real energy no crash,5
+q04,R158INSK6348X7,1,23.5924,"Nutiva Organic Virgin Coconut Oil, 15 Ounce",Awesome Organic Coconut Oil,5
+q04,RU8PJGX0VHQPM,2,20.3113,"Viva Naturals Organic Extra Virgin Coconut Oil, 16 Ounce",A must have staple,4
+q04,RYIVKAOCGMCHL,3,19.5845,"Viva Naturals Organic Extra Virgin Coconut Oil, 16 Ounce",Quality Coconut Oil,5
+q04,R1HW0W7V1S089U,4,18.7946,"Viva Naturals Organic Extra Virgin Coconut Oil, 32 Ounce",Great coconut oil!,5
+q04,R2TKYWDIZ7R8LH,5,17.9002,"Viva Naturals Organic Extra Virgin Coconut Oil, 16 Ounce",Love it! Love it! Love it!,5
+q04,R3F7NQ92WYOX9K,6,17.7152,"Viva Naturals Organic Extra Virgin Coconut Oil, 16 Ounce",Truly a multi purpose oil!,5
+q04,RV9MUNR6ZL1WS,7,17.0782,"Nutiva Organic Virgin Coconut Oil, 15 Ounce",Coconut oil has become a part of my daily life ...,4
+q04,R26NZMI29Q9GH6,8,17.002,Carrington Farms Organic Extra Virgin Coconut Oil,My top hair care product! Love it!,5
+q04,RTFB6LQK7KRWM,9,14.6352,"Viva Naturals Organic Extra Virgin Coconut Oil, 32 Ounce",ABSOLUTELY THE BEST!,5
+q04,R23CPFNX0MT15P,10,14.3915,"Vita Coco Organic Virgin Coconut Oil, 18 Fluid Ounce",cookoo for coconut oil,5
+q05,R34414G58AI8P0,1,15.8873,"Case Square (TM) Apple 5.5"" iPhone 6/ 6s Plus Premium TPU Bumper Case",poor quality,1
+q05,R1PIPROYKBJGVA,2,13.246,"Katjes Yoghurt Gums, 200 g",Candy was poor quality; not edible when received.,1
+q05,RMZJHFEO2JW48,3,12.8605,"Krinos Green Cracked Olives, 5 lb, Product of Greece","If You Like Mushy Olives, These Are For You - I Don't!",1
+q05,RNFPTDHEB27VK,4,12.2145,"Hodgson Mill Bran Muffin Mix, 7-Ounce (Pack of 8)","Cheapened the product, poor quality!",2
+q05,RH94PJQQ3SDUV,5,12.0785,Beantown Roasters K Cups Variety Packs,Good. Not great but good.,4
+q05,R111TGZBJP8MOB,6,11.6652,"Great Northern Popcorn Original Popcorn, 12.5 Pound",Too Many Hard Hulls!,1
+q05,R3GSAG1ULDEDXL,7,11.3152,Qasuri or Kasoori Methi (Dried Fenugreek Leaves) Halal & Parve - 1.7oz,Four Stars,4
+q05,R8AY2F6G15XOS,8,11.0588,"NuGo Dark Choc Chocolate Chip, 1.76-Ounce (Pack of 12)",Poor condition for an amazing protein bar.,1
+q05,RBQCB4HS028U1,9,11.0522,Gourmet Cashew-Coconut Brittle Candy (24 Ounces)-- Handcrafted by the Nut Roaster's Reserve,unsatisfied,1
+q05,RDSEUDH2MSWY1,10,11.0389,Whole Black Poppy Seeds 2 lb (unwashed),Had good quality seeds only in 2 lb bags for a ...,2
+q06,R2F0Z9JT2QJ7Y5,1,22.3065,"Jif Chocolate Nut Butter Almond Granola Bars, 5 Count Pack",We love granola bars and the peanut butter,5
+q06,R3UBT9OC7KK2D5,2,22.152,"Quest Nutrition- Quest Bar Variety Pack: Cravings Peanut Butter Cups, Chocolate Chip Cookie Dough, Double Chocolate Chunk and Chocolate Brownie 36 Protein Bars","The bars were great, but I didn't like the Peanut Butter Cups",3
+q06,R2KKT3Y3VZX2ST,3,20.3617,"Protein Plus, Roasted All Natural Peanut Flour, 32 oz (907 g)",A good product. I buy this to make peanut butter ...,5
+q06,R1M8B0TCA5RNJ7,4,19.7131,"Jif Creamy Peanut Butter Granola Bar, 5 Ct",The most delicious bars!,5
+q06,R3OOSUZN8N936P,5,19.4965,"Jif Creamy Peanut Butter Granola Bar, 5 Ct",Not you average granola bars!,5
+q06,R1K2KZQ09SN1KS,6,19.0396,"Jif Chocolate Nut Butter Almond Granola Bars, 5 Count Pack",SOOOO GOOD!,5
+q06,RX1PMO6MGKUMT,7,18.8066,"Jif Chocolate Nut Butter Almond Granola Bars, 5 Count Pack",Jiff Bars!,5
+q06,RZG91POX9V7C0,8,18.3597,"Jif Chocolate Nut Butter Almond Granola Bars, 5 Count Pack",Very delicious Peanut Butter bars that are easy for on the go !,4
+q06,R22QYHEJVB8U0C,9,18.1975,"Jif Chocolate Nut Butter Almond Granola Bars, 5 Count Pack",Peanuty goodness,5
+q06,RPAIZIJBJJBJJ,10,17.1943,"Jif Creamy Peanut Butter Granola Bar, 5 Ct",Just so-so...,3
+q07,R20UDRG3JURGO6,1,19.064,Rani Mustard Seeds,Five Stars,5
+q07,R33ZLZURYT77I6,2,15.3847,Carnation Breakfast Essentials 40-1.26oz Packets - Rich Milk Chocolate,Five Stars,5
+q07,R2063SRB7PBKGU,3,13.7333,Minute Instant Enriched Long Grain,Great big boxes,5
+q07,RXK44ISOCGP9H,4,12.7802,Red Feather PURE CANNED BUTTER - 2 cans of 12oz each - great for survival earthquake kit,Butter is Butter,5
+q07,R2YDO7JZII1RRT,5,12.2019,UNCLE BEN'S Ready Rice Cheddar & Broccoli Pouch,"Uncle Ben's Rice, always a favorite",5
+q07,R14XGPLMTLFO8X,6,10.2291,"B&M Brown Bread with Raisins, 16 Oz. Can",good for emergency food supply,3
+q07,R266FN6XIEBPOC,7,9.029,Thai Sticky Rice (Sweet Rice) 5 Lbs,DON'T BUY!!!! It's NOT sticky rice!!,1
+q07,R2EAZ6QW23OK5G,8,8.8772,"Viva Naturals - The FINEST Organic Quinoa, 100% Royal Bolivian Whole Grain",An excellent quality real food.,5
+q07,R35IN4UTJS0T4A,9,8.7779,"Powdered Eggs Dried Egg Mix for Scrambled Eggs, Baking, Camping 6 oz by Sonstegard (Pack of 6)","This a bulk commodity, and the product is shipped in bulk.  No Box, just bags.",4
+q07,R39QM4M8B1UUYX,10,8.7735,"Dragonfly Red Rice, 5-Pound",RICE,4
+q08,R5SZ6A8R71KEK,1,14.3156,Now and Later Strawberry -6pc (24 pack),Good candy,4
+q08,RVM7663G7MZPC,2,10.8349,"Perugina Capri Hard Candies, 1 lb Bag in a Gift Box",I love the variety you get with these,5
+q08,R2XJMZXQ4OHAMQ,3,10.0092,"Frankford Zombies Gummy Candy, 8.88 oz Bags in a Gift Box (Pack of 2)",Delicious Zombie Greatness,5
+q08,R291NMEMFZ4FVK,4,9.6561,Indian Candy Corn,Avoid this product,1
+q08,RDTKZUULCQWPN,5,9.6561,"Skittles Original Candy, 9 ounce bag",More please,5
+q08,RFZCH79EXHTRG,6,9.3438,Helen Ou@hainan Specialty: Chunguang Coconut Candy for Leisure Snack,Thought I ordered 3 bags...,3
+q08,RSP3LQHM1ATPY,7,8.8419,Harney & Sons Hot Cinnamon Spice Tea 100g / 3.57 oz (50 Tea Bags),Great Substitute for Coffee! Sweet and Spicy!,5
+q08,R2V192T1VSI3P8,8,8.7479,"Honey Stinger Organic Energy Gel, Vanilla, 1.1 Ounce (Pack of 24)",Does the Job,5
+q08,R3PIVFZ6F2JLXJ,9,8.4979,"Fluffy Stuff Cotton Candy, 2.5-Ounce Bags (Pack of 12)",Fluffy,5
+q08,R325H1Z331PQKE,10,8.4813,Two Rivers Coffee Bit of Everything Sampler Packs for Single-Cup Keurig K-Cup Brewers,Variety,5
+q09,R1LRX0TRYWKQ4P,1,18.6332,"Torani Blackberry Syrup, 750 ml",Perfect for Iced Tea,5
+q09,R2CEZWH9398G79,2,18.2454,Tealyra - Ripe Pu'erh Tea - 5 Years Aged Loose Leaf - 100% Natural And Organic - Caffeine Level High - Weight Loss Tea - Aged Black Tea Pu Er,Good tea. Easy to brew and makes a nice ...,4
+q09,R1YYBRETKNIVHU,3,18.0319,Taylors of Harrogate Assorted Tea,Love the taste of this tea,5
+q09,R3FSAVU8PTBOXG,4,17.0392,Grady's Cold Brew Iced Decaf Coffee Bean Bags Can (2-Pack),Easy and delicious,5
+q09,R3G7U9TV2S43ZR,5,16.6569,"Snapple Lemon Iced Tea K-Cup Packs, 16 Count","Quick easy, tasty tea!",5
+q09,R1UZD751VNVPKK,6,16.0773,"Lipton Tea Bags Green Tea Decaffeinated, (Pack of 2) Superfruit Blackberry and Pomegranate, 20 Count Package.",Great for Iced Sun Tea!,5
+q09,R29NT483DQ86PM,7,15.7603,Crystal Light Pitcher Packs,Summer Yum,5
+q09,R1D2RVDH027GED,8,15.657,"Lipton Berry Iced Herbal Tea Keurig K-Cups, 24 Count",Great Flavor,5
+q09,R2IPZGTGZX1TW8,9,15.5001,Matcha DNA Certified Organic Matcha Green Tea,Best Flavor,5
+q09,RSE2PP8HDYYNU,10,14.7965,Lipton Iced Tea Mix,just not very good for everyday use,2
+q10,RUV7L0KDJN553,1,17.2053,"Wholly Ganjang, Premium Gluten-free Unpasteurized Artisanal Korean Soy Sauce",Better than the soy sauce I grew up on,4
+q10,R2DAYMBVLTY95O,2,17.1714,Coconut Secret Organic Raw Coconut Aminos Soy-Free Seasoning Sauce-8 Oz,and better for you then sodium packed soy sauce,5
+q10,R1W6EWGF728LGJ,3,15.8866,"Wholly Ganjang, Premium Gluten-free Unpasteurized Artisanal Korean Soy Sauce",A Truly Authentic Korean Soy Sauce,5
+q10,R3R0YQLJT8DJI6,4,14.2515,Maggi Arome Saveur Depuis 1889,Worthy.,5
+q10,R1XGUJOGETSK56,5,12.9917,Individual Meatloaves with Dill Fingerling Potatoes and Sugar Snap Peas by Chef'd,Cheaper and just as good alternatives are out there,2
+q10,R16UYJ09FZEF78,6,11.5554,Coconut Secret Organic Raw Coconut Aminos Soy-Free Seasoning Sauce-8 Oz,So good. After you try this you will never buy ...,5
+q10,RYVQW15WWB0GE,7,11.4264,Soyava Coffee Substitute by New Life Coffee - All-Natural and Caffeine-Free,Tastes like very dilute soy milk,1
+q10,R3EDS5D746EKPI,8,11.3418,"San-J Reduced Salt Soy Tamari Sauce, 10 oz",Celiacs beware !  Cross Contamination alert!,1
+q10,R1OTDRCYGJSLQA,9,10.8383,Don't Go Nuts Nut Free Energy Bar,"soy, soy, soy...  :-(",3
+q10,R12ZPMXGZJ8F1H,10,10.062,"San-J Reduced Salt Soy Tamari Sauce, 10 oz",I suppose this serves its purpose as its gluten free ...,2
+q11,R25JZQTWSLVLQP,1,11.7317,"Keurig, The Original Donut Shop, 100 Count K-Cup Packs",Coffee pod... not environmental friendly!,3
+q11,R2U8L6GLHX92LK,2,11.7306,Carbquik Baking Biscuit Mix,Five Stars,5
+q11,R39W3BGFIMBGE9,3,8.289,"The Organic Coffee Co., Breakfast Blend, 12 OneCup Single Serve Cups",Great coffee and environmentally friendly.,5
+q11,R2MCSCWAAK977X,4,8.1689,San Francisco Bay One Cup,it is darn good coffee.,5
+q11,R1MG7TPBDQF0Y0,5,8.1689,"Wild Planet Wild Alaskan Pink Salmon, Boneless & Skinless, 6-Ounce Cans (Pack of 6)",Five Stars,5
+q11,R6F9BOMNCTO23,6,7.9745,San Francisco Bay One Cup,Really great coffee,5
+q11,R1RY8ZK28R3LZ7,7,7.858,"Natural Cacao Powder HUGE BAG, Unprocessed, Anti Oxidant Rich, PREMIUM Super Food, Unsweetened, Nourishing Chocolate Delight, Nutrient Dense, Amazing Dietary Alternative From Latin America",Great Cacao powder,5
+q11,R1D5Z5H9EZ1B2V,8,7.8063,"The Organic Coffee Co., Breakfast Blend, 12 OneCup Single Serve Cups",Delicious and Earth Friendly,5
+q11,RTQDUKJE6NYYY,9,7.8063,"KIND Fruit & Nut, All Natural / Non GMO, Gluten Free Bars",Great diabetic friendly food bar.,5
+q11,RM92LY2X6ASMK,10,7.7684,"Nutiva Organic Hemp Shake, Superfood Drink Mix, 16 Ounce Canisters",Excellent protein powder,5
+q12,R3C3U7CWEYNEGU,1,17.0384,Sempio Hot Pepper Paste (Gochujang) 500g /1.1lb,Spicy but so good,4
+q12,R2DOMCL98BE45X,2,16.3648,"SalsaCrazy Habanero Salsa - Dominate the Dance Floor Habanero Salsa Hot Sauce,16 fl oz.",Great flavor,4
+q12,R31ACCYF8EQCXW,3,15.1362,"ongshim Shin Cup Noodle Soup, Gourmet Spicy, 2.64 Ounce","Great product, new price too high.",5
+q12,RU58O7T2ZUMQX,4,14.9611,Hot Clove Garlic Co. Spicy Garlic Rub With Habanero Chile Peppers (6.7 Oz),A nice spicy heat.,5
+q12,R2JYMYPSFUZ5G8,5,14.2989,"Simply Organic Cayenne Pepper Certified Organic, 2.89 Ounce Container",👍,5
+q12,R2EZ19YY2SU87P,6,14.1002,"Ottogi Jin Ramen (Hot Taste), 2.29-ounce Packages (Pack of 6)",Spicy and good,4
+q12,R2GCZ5EWS02ZFI,7,13.5064,Vidalia Zesty Ranch Sweet Onion Petals 3.5 oz Bag (Pack of 3),Very delicious. Slightly spicy/hot. I generally stay away ...,5
+q12,R2N213VUYNVK1F,8,12.9678,Chomps 100% Grass Fed Beef Snack Jerky Sticks Whole30 Variety (Pack of 6),Spicy & pricey,4
+q12,R34N11SVYZ7QUV,9,12.4129,Spike Hot 'n Spicy Natural Gourmet Seasoning,Love the heat,5
+q12,R1FDT6YLWFLK8T,10,12.221,"NongShim Shin Ramyun Noodle Soup, Gourmet Spicy, 4.2 Ounce",Delicious,5
+q13,R3UT20MA6BLO4T,1,12.7679,"Wholesome Sweeteners, Organic Stevia",Not like the artificial sweeteners,5
+q13,RQGFW3L0ZJDIE,2,11.892,"SweetLeaf Sweet Drops Liquid Stevia Sweetener, Vanilla Creme",I love to use this flavor in my coffee,5
+q13,R1VHC4JYF2MRN1,3,10.6463,"Orgain Organic Plant Based Protein Powder, Packaging May Vary","Best protein powder I've tasted in a long time.  No aftertaste, blends well with other igredients.",5
+q13,R37A5SE85MPPDQ,4,10.4303,"SweetLeaf Sweetener (70-Count Packets), 2.5-Ounce Boxes (Pack of 3)","Great pack of three, all natural stevia product",5
+q13,R1YKMU946EYJBW,5,9.6781,AWAKE Chocolate - Caramel 1.55oz - 12pk,Aftertaste?,1
+q13,R2ROEZ84DGSR0Z,6,9.4886,In The Raw - Stevia In The Raw Natural Sweetener,This is the perfect alternative to sugar and artificial sweeteners,5
+q13,R2LOAF16VSTOWF,7,8.9393,"Touch Organic China Organic Tea Cube, Jasmine Green Tea","Nice flavor, no bitter aftertaste",5
+q13,RIBMD1QCJ5MSM,8,8.853,"V8 V-fusion + Plus Energy Black Cherry, 8 fl. oz. cans (Pack of 24)",Artificial sweetener...I like real sugar,1
+q13,R37KF2ORVCBSS7,9,8.8429,"LorAnn Oils Emulsion, Banana, 4 Ounce",There was not weird aftertaste just a nice banana taste,5
+q13,R3O51NH7DS8W1H,10,8.5487,Läkerol Licorice Sugar Free Pastilles (4 Pack/Boxes) Imported Swedish Licorice,Good Licorice Flavor,4
+q14,R3R6AY7SDTPTUC,1,11.7141,"Lavazza Whole Bean Coffee, 2.2 Pound Bag",Just like in Italy,5
+q14,R3B3NY1NY37CAX,2,10.3772,"Lavazza Crema e Aroma - Coffee Beans, 2.2-Pound Bag",Not the fresh Lavazza one would expect in Italy,3
+q14,RS7TRT9QX1MKL,3,10.2968,Nespresso OriginalLine Roma,Great espresso - consistently.,5
+q14,RHJBMC016SFIX,4,10.2551,Dark Chocolate Turbinado Almonds with Sea Salt - SweetGourmet,We normally purchase Kirkland brand of this kind of chocolate ...,3
+q14,R3HY0IARUN0FL3,5,9.6081,"NescafÃ© Dolce Gusto Espresso Ristretto, 3er Pack (48 Kapseln)",Great tasting espresso,5
+q14,R26WV6EOV5RIIC,6,9.1272,"Weaver's Coffee, Decaf Organic Blend Ground Coffee, Full-bodied Malt and Caramel Overtones, 12 Ounce Bag",Excellent decaf!,5
+q14,RRMHH3UOBAGAJ,7,9.0102,"illy iperEspresso Capsules Dark Roasted Coffee, 5-Ounce, 21-Count Capsules",I LOVE IT,5
+q14,R1T3JM546GHKZY,8,8.8082,"Signature Jelly Belly Jelly Beans, 4-Pound Home Grocery Product",Just Jelly Beans,5
+q14,RWPI165ML10XJ,9,8.732,2 Packs Carte Noire Espresso Ground Coffee 8.8oz/250g,If you want to true European espresso use this coffee.,5
+q14,R2W851NOP4DZWN,10,8.6661,Black Turtle Beans,High Quality Dried Beans,5
+q15,R39Z30GA0AWNW9,1,16.1589,"Lenny & Larry's The Complete Cookie, Chocolate Chip, 4-Ounce Cookies (Pack of 12)",these are amazing. If the label didn't say dairy free,5
+q15,R1V6Q467H4NFXE,2,15.9327,"Better Than Milk Original Vegan Rice Powder, 21.4 Ounce",Good substitute for dairy powdered milk,5
+q15,RNPR0ML7ECGB,3,15.8122,Happy Creamies Organic Veggie and Fruit Snacks with Coconut Milk,Perfect dairy free option!,5
+q15,R2YZ8BPNNLU6RV,4,15.2922,Viva Labs Hemp Protein,The powder has worked great in smoothies and baking,4
+q15,R1CXDEJHPTSB0X,5,13.2656,Mrs. May's Almond Rice Stix,Gluten and dairy free and SO yummy,5
+q15,R32ZIIQKMR6NSF,6,13.0323,"Hashachar Parve Chocolate Spread, 16-Ounce (Pack of 6)","My favorite chocolate spread, and it's nut (and dairy) free",5
+q15,R183L9W7BH89SR,7,12.0557,kataoka – Té verde Matcha Leche 7.05oz,"Delicious, best matcha milk",5
+q15,R3MFVH9KOCHODC,8,12.0393,Lucys Cookie Gf Gngr Snap,Daughter likes these,5
+q15,R1HV8IEF9YZEGH,9,11.9985,"Bell Plantation PB2 Powdered Peanut Butter with PB2 and Premium Chocolate, 16 Ounces, (Pack of 4).",Fantastic PB powder!,5
+q15,RMEKM1RPRC1EE,10,11.3125,"Orgain Plant-Based Organic Nutrition Shake, 2 Flavors, 11 Ounce, 12 Count",gluten and soy free loved these. Great for a fast,5
+q16,R1IRVPL95X0VLN,1,14.6037,"Plum Kids Organic Fruit Shredz, 5-Count (Pack of 8)",Five Stars,5
+q16,R3GQ11XKN0ZOJ4,2,13.8795,"Annie's Organic Bunny Fruit Snacks, Variety Pack, 24 Pouches, 0.8 oz Each",Five Stars,5
+q16,R84S9A0YYICS1,3,13.7107,"Plum Organics Second Blends Hearty Veggie Meal, 3.5 Ounce (Pack of 12)",My toddler's favorite,5
+q16,R1DG62K02FXRD6,4,13.6458,Slim Jim Snack Sticks,A great lunch box treat,4
+q16,R9IZ5M6GILIV7,5,13.051,Veggies,Perfect snack for out and about.,5
+q16,R2MP04MH61K2LN,6,12.3642,The Good Bean Chickpea Snacks,high protein snack,2
+q16,R1M8VO5JGU4ROC,7,11.7822,"Orgain Organic Protein Shake, 2 Flavors, 11 Ounce, 12 Count",Great tasting high protein shakes.,5
+q16,R1SN7BB158TE2A,8,11.5638,"Gerber Graduates Lil' Entrees Mashed Potatoes & Gravy with Roasted Chicken & Carrots, 6.6-Ounce (Pack of 8)",My toddler loves this. With the subscribe and save ...,5
+q16,R12Z5FQHIBZ64B,9,11.5301,Terrasoul Superfoods Vanilla Bean Powder (Organic),Great for mixing in Protein Drinks,5
+q16,R1G9U4LANWFFRR,10,11.3358,Healthy Variety Snack Care Package (30 Count),Two Stars,2
+q17,RMXAREB2PCAHM,1,22.1645,Sintonia from Madonna dell'Oliva Extra Virgin Olive Oil 2014,Super good tasting Olive Oil,5
+q17,ROCQP6X2FI61P,2,20.1941,"Bertolli: ""Fragrante"" Virgin Olive Oil - 1 liter * Pack of 2 [ Italian Import ]",This olive oil has the best and truest olive flavor i have found in moderate ...,5
+q17,R3VDLRKXEIS748,3,15.8938,Dean Jacob's Tuscany Bread Dipping Seasoning ~ 3.8 oz.,Dipping Queen...Really Enjoy,5
+q17,R2HI9XD7E01B4P,4,15.5061,Terra Creta | Award Winning | Kolymvari Estates | 100% Pure Greek Olive Oil | Cold Extracted | Protective Designation of Origin | 3Ltr - (101.6 fl.oz) Tin,An honest olive oil,4
+q17,R2RLEM7XTNCUQ5,5,14.9809,"Barbera Lorenzo  #3 Sicilian Extra Virgin Olive oil D.O.P. Val Di Mazara, 16.9-Ounce",The Absolute Best Olive Oil in the Entire World.,5
+q17,R1Q90A9DT4T7N8,6,14.4967,Kevala Organic Olive 1/2 Gal,Super high quality organic olive oil,5
+q17,R3GB2ME2MXZBEM,7,14.3196,"Brookfarm Natural Macadamia Nut Oil , 8.5-Ounce Bottles (Pack of 3)",The Perfect Oil,5
+q17,R1IX3H51WR67A8,8,14.3078,Kirkland Signature Organic Extra Virgin Olive Oil 2L (2QT 3.6 fl. oz),The flavor is great with the peppery bite that is indicative of olive ...,5
+q17,R3CVRQ5O6645H,9,14.1451,"Colavita Extra Virgin Olive Oil Special, 17 Ounce (Pack of 2)","Good olive oil, great item for subscribe and save",5
+q17,RFENII105V8EX,10,13.8774,"Columela  Extra Virgin Olive Oil From Spain , 17-Ounce Glass Bottles (Pack of 2)",best Olive Oil for taste and cooking--bar none-- you get ...,5
+q18,R3O77TAQVHN38Y,1,12.0371,"Pure Natural Miracles Cacao Nibs. Raw, Organic and Premium Criollo Variety.",Awesome and healthy.,5
+q18,R189DEHQ8QDDG3,2,10.0947,"Wedderspoon 100% Raw Manuka Honey KFactor, 24 Count",Five Stars,5
+q18,R2R9YS42KRLGQZ,3,8.7918,To Go Brands Green Tea Energy Fusion Honey Lemon -- 24 Packets,fast delivery,5
+q18,R17UYYLTAQVE7T,4,8.116,"PowerBar PowerGel, 1.44 Ounce  (Pack of 24)",Still searching for the perfect energy gel,4
+q18,R1ZASHWK2PJ19D,5,7.9651,Matcha DNA Certified Organic Matcha Green Tea,All Day Energy,5
+q18,RV4GFEQM4F2VL,6,7.9074,"Paradise Cherry Halves, Red, 8 Ounce",Fast,5
+q18,R7310YT9ANMZJ,7,7.7138,"Kool-Aid Cherry Unsweetened Soft Drink Mix, 0.13-Ounce Envelopes(Pack of 48)",Good & fast,5
+q18,R72V5IO7H0SS1,8,7.5141,GURU Natural Energy Drink,guru energy drink is just right,5
+q18,R1WN17M4BR4N2U,9,7.3538,TruffleHunter Black Truffle Mayonnaise (6.34 Oz),Super fast shipping,5
+q18,R1GTA8IK7VBY46,10,7.3538,Caribou Coffee Ground Coffee - Caribou Blend - 12 oz,Fast shipping. Will definitely buy again.,5
+q19,R3OK6BZKSWXA86,1,16.5043,"Stakich RAW HONEY - 100% Pure, Unprocessed, Unheated, KOSHER",Very good raw honey!,5
+q19,RHI328HAIOR38,2,16.172,"YS Organic Bee Farms CERTIFIED ORGANIC RAW HONEY 100% CERTIFIED ORGANIC HONEY Raw, Unprocessed, Unpasteurized - Kosher 32oz (Pack of 3)","I'm sure it will be great, as I have purchased Real Raw Honey in ...",5
+q19,R2E4RAW59QRBFV,3,15.7407,"YS Eco Bee Farms RAW HONEY - Raw, Unfiltered, Unpasteurized - Kosher","tastes just as good, but I prefer organic",4
+q19,RT1A6IJKHI8FX,4,14.6576,"Frontier Herb Organic Powdered Ceylon Cinnamon, 1 Pound bag -- 1 each.",Some things you don't skimp on.,5
+q19,R4HOWA0JS6QAT,5,14.0334,Y.S. Eco Bee Farms Raw Honey - 22 oz,Spreadable honey,5
+q19,R2WU3WXPM5DL1U,6,13.4429,"24 Mantra Organic Ginger Powder, Dry, 7 Ounce",LIKE!,5
+q19,R1BEY7QFJC6EVP,7,13.3412,SESAME SEED PARENT,Raw Organic  Sesame Seeds,5
+q19,R2N3LMLYAQEHN6,8,13.1582,"Frontier Turmeric Root Ground, 1.92-Ounce Bottle",Four Stars,4
+q19,R1H2HT59RB13HX,9,13.0446,Y.S. Eco Bee Farms Raw Honey - 22 oz,This honey is great. I'm bout to order more,5
+q19,R1BNRC6XURVKZO,10,12.8375,"Wedderspoon Honey New Zealand 100 Percent Raw Organic Wild Rata , 17.6 Ounce",Five Stars,5
+q20,R3FISHKHCGI660,1,22.0366,"Keurig, Eight O'Clock Coffee, The Original, K-Cup packs, 24 Count",Very good coffee. I prefer a medium roast like this,4
+q20,R1WW87WR04M6LV,2,20.5187,"WILD JO: 12 oz, Dark French Roast Organic Coffee, Whole Bean Coffee, Bold Strong Rich Wicked Good Coffee! Great Brewed or Espresso, USDA Certified Fair Trade Organic, 100% Arabica Coffee, NON-GMO",Medium roast,2
+q20,R3VAQ1F6175Y20,3,19.7628,"WILD JO: 12 oz, Dark French Roast Organic Coffee, Ground Coffee, Bold Strong Rich Wicked Good Coffee! Great Brewed or Espresso, USDA Certified Fair Trade Organic, 100% Arabica Coffee, NON-GMO",Five Stars,5
+q20,R3SQFH9VDS5O7O,4,18.3612,"Nuvia Healthy Gourmet Instant Coffee, Dairy Free, Lactose Free, No GMOs, No Salt, Soy Free, Vegan, with Organic Ganoderma, Pomegranate and African Mango Extracts, Premium Appetite Suppressant","Healthy, don't enjoy dark roast though.",4
+q20,RCLS486KI1ZED,5,18.1128,"Kicking Horse Coffee, Whole Bean Coffee, 2.2 Pound Pouch",Medium Roast > Dark Roast,3
+q20,R24BEWBBMKPXXR,6,16.9763,Barrie House Organic & Fair Trade Certified Decaf Classic Single Cup Capsules,Barrie House Organic Coffee,5
+q20,R1R2TKWBHMOFXZ,7,16.8211,Green Mountain Coffee Fair Trade for Keurig Brewers - Colombian Select,Five Stars,5
+q20,R984JRRUQB9PM,8,14.3204,"Choice Organic Teas, 16-Count Tea Bags (Pack of 6)",Pure Mint tea. Fair trade and organic. Great company.,5
+q20,R1VGG247WGHYFL,9,13.9632,"Krispy Kreme Keurig Single-Serve K-Cup Pods, Smooth Light Roast Coffee","Smooth, mellow flavor - medium roast",4
+q20,RBQUBF7N5WWHV,10,13.5551,"Starbucks Refreshers, Blueberry Acai, 12 Ounce Sleek Cans (Pack of 12)",Substitute Coffee Trade,5
